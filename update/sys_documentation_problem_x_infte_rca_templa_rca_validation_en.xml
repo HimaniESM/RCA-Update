@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_infte_rca_templa_rca_validation" label="RCA Validation" language="en" table="problem">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_infte_rca_templa_rca_validation</element>
+            <help/>
+            <hint/>
+            <label>RCA Validation</label>
+            <language>en</language>
+            <name>problem</name>
+            <plural>RCA Validations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Suganya_Nagarajan</sys_created_by>
+            <sys_created_on>2018-04-02 12:20:43</sys_created_on>
+            <sys_id>087b1bd04f59db0053c240f18110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RCA Validation</sys_name>
+            <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
+            <sys_update_name>sys_documentation_problem_x_infte_rca_templa_rca_validation_en</sys_update_name>
+            <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+            <sys_updated_on>2018-04-02 12:20:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
